@@ -3,7 +3,7 @@ channels:
   - defaults
 dependencies:
   - pip:
-    - pandas==1.4.2
+    - pandas
     - pickle
     - scikit-learn
     - numpy
