@@ -2,10 +2,9 @@ name: ml
 channels:
   - defaults
 dependencies:
-  - pip:
-    - pandas
-    - pickle
-    - scikit-learn
-    - numpy
+  - pandas
+  - pickle
+  - scikit-learn
+  - numpy
 
 prefix: /Users/pedrogelado/opt/anaconda3/envs/ml
