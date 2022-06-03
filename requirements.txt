@@ -1,6 +1,5 @@
 numpy
 pandas
-pickle
 pickleshare
 pillow
 matplotlib
